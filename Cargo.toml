@@ -5,5 +5,5 @@ resolver="3"
 [workspace.package]
 license = "MPL-2.0"
 description = "Risc-V usermode kernel for emulators"
-
+repository = "https://github.com/portal-co/gerkin.git"
 [workspace.dependencies]
