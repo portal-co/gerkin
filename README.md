@@ -1,13 +1,14 @@
 # gerkin
 
 ## Description
-Project gerkin
+RISC-V user-mode kernel designed for emulators.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Implement kernel syscalls/traps
+- [ ] Support RISC-V user-mode execution
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace setup
 
 ---
 *AI assisted*
